@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class CajaBlancaTest {
+class CajaBlancaTest1 {
 
 	@Test
 	void testCamino1() {
